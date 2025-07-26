@@ -7,7 +7,7 @@ This project features a modern, responsive design suitable for personal portfoli
 
 ## 🚀 Live Demo
 
-📍 [View Live](https://abd-el-rahman-adel-dev.github.io/HTML-CSS_First_project/)
+📍 [View Live](https://codebyabdo.github.io/HTML-CSS_First_project/)
 
 ---
 
@@ -72,8 +72,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
